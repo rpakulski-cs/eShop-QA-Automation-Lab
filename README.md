@@ -1,4 +1,6 @@
-# Playwright $ Docker tests project by rpakulski-cs
+# Playwright tests project by rpakulski-cs
+Project purpose: Test automation labs.
+Main tech stack: C#, Playwrigt, Docker.
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
